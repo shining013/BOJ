@@ -1,4 +1,4 @@
-# 출처: https://plzrun.tistory.com/entry/알고리즘-문제풀이PS-시작하기 [plzrun's algorithm:티스토리]
+## 출처: https://plzrun.tistory.com/entry/알고리즘-문제풀이PS-시작하기 [plzrun's algorithm:티스토리]
 
 # 1시간 이상 문제를 붙들고 있는 경우->모른다는 뜻이므로 이전 질문들 찾아보고 AC받은 다른 사람의 코드 참고할 것. 랭킹 100위권 안에 드는 사람들 중 인덴트 멀쩡한 코드를 본다. 
 # boj.kr/문제번호 형태로 검색한다.
